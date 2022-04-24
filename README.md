@@ -2,7 +2,7 @@
 
 ## Aspiring MERN Stack Developer
 
-- :earth_africa: I’m currently working on ...
+- :earth_africa: I belongs to India,Odisha
 - :dart: My gole - to become a MERN stack developer
 - 👯 I’m looking to collaborate on React Project
 - 💬 Ask me about Javascript..
