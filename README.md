@@ -1,6 +1,6 @@
 ### Hi 👋 I am Suresh Kumar Pradhan
 
-## Aspiring MERN Stack Developer
+## React js  Developer
 
 - :earth_africa: I belongs to India,Odisha
 - :dart: My gole - to become a MERN stack developer
